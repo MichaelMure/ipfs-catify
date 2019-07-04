@@ -14,7 +14,7 @@ go get github.com/MichaelMure/ipfs-catify
 ```
 ipfs-catify cat.png out.png
 
-ipfs add -n output.png 
+ipfs add -n out.png 
 added QmcatHCGzBvXvudwfUen9Z6bMhi2iXDkWrRGQ1xS16YzZk output.png
 ```
 :open_mouth:
