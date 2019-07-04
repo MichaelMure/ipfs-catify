@@ -16,10 +16,8 @@ ipfs-catify cat.png out.png
 
 ipfs add -n output.png 
 added QmcatHCGzBvXvudwfUen9Z6bMhi2iXDkWrRGQ1xS16YzZk output.png
-
-:-O
-
 ```
+:open_mouth:
 
 # License
 
