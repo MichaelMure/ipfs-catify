@@ -15,7 +15,7 @@ go get github.com/MichaelMure/ipfs-catify
 ipfs-catify cat.png out.png
 
 ipfs add -n out.png 
-added QmcatHCGzBvXvudwfUen9Z6bMhi2iXDkWrRGQ1xS16YzZk output.png
+added QmcatHCGzBvXvudwfUen9Z6bMhi2iXDkWrRGQ1xS16YzZk out.png
 ```
 :open_mouth:
 
@@ -23,7 +23,7 @@ added QmcatHCGzBvXvudwfUen9Z6bMhi2iXDkWrRGQ1xS16YzZk output.png
 
 MIT
 
-## QA
+## FAQ
 
 <details><summary>This code is crap.</summary>yes</details>
 
